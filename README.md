@@ -1,5 +1,5 @@
 ## Functionality of Code
-his code creates LDA on EMG data of patients that suffer from scoliosis for the purpose of finding any way to distinguish the severity based on features extracted from the EMG data
+this code creates LDA on EMG data of patients that suffer from scoliosis for the purpose of finding any way to distinguish the severity based on features extracted from the EMG data
 
 
 ## Usage of Code
