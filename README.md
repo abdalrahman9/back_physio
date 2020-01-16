@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Functionality of Code
 this code creates LDA on EMG data of patients that suffer from scoliosis for the purpose of finding any way to distinguish the severity based on features extracted from the EMG data
 
@@ -10,3 +11,6 @@ this code creates LDA on EMG data of patients that suffer from scoliosis for the
 4. The rest of the subjects are in the 'backup' folder within the '0Months' folder. These files are not read by the program. You can drop more files in the 0Months folder to be used in the program
 5. to run the program on linux: go to the root folder that contains the spine_lda.py and 0months folder with the terminal and type "python3 spine_lda.py"
 6. The program is not fast so I have colab version which runs faster. i can send it over if anyone would like
+=======
+# back_physio
+>>>>>>> github/master
